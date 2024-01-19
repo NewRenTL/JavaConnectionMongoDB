@@ -8,5 +8,4 @@ import java.util.List;
 @Getter
 @Setter
 public class Producto {
-
 }
