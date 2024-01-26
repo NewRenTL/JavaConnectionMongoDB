@@ -5,5 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Comentario {
+public class Comments {
+    String id;
+    String content;
 }
